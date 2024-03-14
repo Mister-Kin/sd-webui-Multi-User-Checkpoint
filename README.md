@@ -3,7 +3,7 @@
 This plugin allows multiple users to connect to a single WebUI instance and create queues with different Checkpoints and VAEs    
 
 ## Screenshot
-<img src="./images/ui.jpg"/>  
+<img src="./images/rimlandpng"/>  
 
 ## Usage
 This plugin will create two drop-down menus, allowing users to select different Checkpoint and VAE respectively, and will not be affected by WebUI settings.  
