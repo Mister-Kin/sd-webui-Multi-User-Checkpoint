@@ -10,7 +10,7 @@
 ## 安装
 1. 前往 SD WebUI 的 `扩展` 标签页
 2. 点击 `从网址安装` 子标签
-3. 将 `https://github.com/lihaoyun6/sd-webui-Multi-User-Checkpoint` 粘贴进网址输入框
+3. 将 `https://github.com/rimland/sd-webui-Multi-User-Checkpoint` 粘贴进网址输入框
 4. 点击 `安装` 并等待完成
 5. 提示安装成功后重载 WebUI 即可启用
 

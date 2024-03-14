@@ -11,7 +11,7 @@ This plugin will create two drop-down menus, allowing users to select different 
 ## Install
 1. Go to SD WebUI's `extension` tab
 2. Click `Install from URL` subtab
-3. Paste `https://github.com/lihaoyun6/sd-webui-Multi-User-Checkpoint` into the URL textbox
+3. Paste `https://github.com/rimland/sd-webui-Multi-User-Checkpoint` into the URL textbox
 4. Click `Install` and wait for it to complete
 5. Once completed, the WebUI needs to be reloaded
 
